@@ -1,2 +1,2 @@
 # CODSOFT
-Java Development Internship tasks 1 
+Java Development Internship tasks 
